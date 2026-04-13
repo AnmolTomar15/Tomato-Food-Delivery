@@ -21,9 +21,8 @@ Database: MongoDB
 Version Control: Git & GitHub
 
 Connect with Me 🌟
-Name: Ayush Pandey
+Name: Anmol Tomar
 
-Email: apayush.20@gmail.com
+Email: anmol2005tomar@gmail.com
 
-GitHub: Ayush-2005-ap
 
